@@ -17,6 +17,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jbaei\PhpstormProjects\LPG-TP_noté_baeijs_coqueret\Model\Entities" />
+      <recent name="C:\Users\jbaei\PhpstormProjects\LPG-TP_noté_baeijs_coqueret" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -40,7 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575878712365</updated>
       <workItem from="1575878713653" duration="649000" />
-      <workItem from="1575891960045" duration="12974000" />
+      <workItem from="1575891960045" duration="17237000" />
+      <workItem from="1576135481169" duration="4009000" />
     </task>
     <servers />
   </component>

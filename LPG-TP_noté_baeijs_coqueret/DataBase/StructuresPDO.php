@@ -7,7 +7,7 @@
 <body>
 <?php
 
-include(__DIR__."./../Controller/conf/config.php");
+include(__DIR__ . "./../conf/config.php");
 
 $server = $GLOBALS["server"];
 $db = $GLOBALS["db"];
